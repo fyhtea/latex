@@ -1,0 +1,95 @@
+\begin{thebibliography}{10}
+
+\bibitem{diannao}
+Tianshi Chen, Zidong Du, Ninghui Sun, Jia Wang, Chengyong Wu, Yunji Chen, and
+  Olivier Temam.
+\newblock Diannao: A small-footprint high-throughput accelerator for ubiquitous
+  machine-learning.
+\newblock In {\em ACM Sigplan Notices}, volume~49, pages 269--284. ACM, 2014.
+
+\bibitem{eyeriss}
+Yu-Hsin Chen, Joel Emer, and Vivienne Sze.
+\newblock Eyeriss: A spatial architecture for energy-efficient dataflow for
+  convolutional neural networks.
+\newblock In {\em Computer Architecture (ISCA), 2016 ACM/IEEE 43rd Annual
+  International Symposium on}, pages 367--379. IEEE, 2016.
+
+\bibitem{dadiannao}
+Yunji Chen, Tao Luo, Shaoli Liu, Shijin Zhang, Liqiang He, Jia Wang, Ling Li,
+  Tianshi Chen, Zhiwei Xu, Ninghui Sun, et~al.
+\newblock Dadiannao: A machine-learning supercomputer.
+\newblock In {\em Proceedings of the 47th Annual IEEE/ACM International
+  Symposium on Microarchitecture}, pages 609--622. IEEE Computer Society, 2014.
+
+\bibitem{du2015shidiannao}
+Zidong Du, Robert Fasthuber, Tianshi Chen, Paolo Ienne, Ling Li, Tao Luo,
+  Xiaobing Feng, Yunji Chen, and Olivier Temam.
+\newblock Shidiannao: Shifting vision processing closer to the sensor.
+\newblock In {\em ACM SIGARCH Computer Architecture News}, volume~43, pages
+  92--104. ACM, 2015.
+
+\bibitem{neoflow}
+Vinayak Gokhale, Jonghoon Jin, Aysegul Dundar, Berin Martini, and Eugenio
+  Culurciello.
+\newblock A 240 g-ops/s mobile coprocessor for deep neural networks.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition Workshops}, pages 682--687, 2014.
+
+\bibitem{proteus}
+Patrick Judd, Jorge Albericio, Tayler Hetherington, Tor~M Aamodt,
+  Natalie~Enright Jerger, and Andreas Moshovos.
+\newblock Proteus: Exploiting numerical precision variability in deep neural
+  networks.
+\newblock In {\em Proceedings of the 2016 International Conference on
+  Supercomputing}, page~23. ACM, 2016.
+
+\bibitem{stripes}
+Patrick Judd, Jorge Albericio, Tayler Hetherington, Tor~M Aamodt, and Andreas
+  Moshovos.
+\newblock Stripes: Bit-serial deep neural network computing.
+\newblock In {\em Microarchitecture (MICRO), 2016 49th Annual IEEE/ACM
+  International Symposium on}, pages 1--12. IEEE, 2016.
+
+\bibitem{flexflow}
+Wenyan Lu, Guihai Yan, Jiajun Li, Shijun Gong, Yinhe Han, and Xiaowei Li.
+\newblock Flexflow: A flexible dataflow accelerator architecture for
+  convolutional neural networks.
+\newblock In {\em High Performance Computer Architecture (HPCA), 2017 IEEE
+  International Symposium on}, pages 553--564. IEEE, 2017.
+
+\bibitem{envision}
+Bert Moons, Roel Uytterhoeven, Wim Dehaene, and Marian Verhelst.
+\newblock Envision: A 0.26-to-10 tops/w subword-parallel
+  dynamic-voltage-accuracy-frequency-scalable convolutional neural network
+  processor in 28nm fdsoi.
+\newblock In {\em IEEE International Solid-State Circuits Conference (ISSCC)},
+  pages 246--257, 2017.
+
+\bibitem{c-brain}
+Lili Song, Ying Wang, Yinhe Han, Xin Zhao, Bosheng Liu, and Xiaowei Li.
+\newblock C-brain: A deep learning accelerator that tames the diversity of cnns
+  through adaptive data-level parallelization.
+\newblock In {\em Design Automation Conference (DAC), 2016 53nd ACM/EDAC/IEEE},
+  pages 1--6. IEEE, 2016.
+
+\bibitem{sze2017efficient}
+Vivienne Sze, Yu-Hsin Chen, Tien-Ju Yang, and Joel Emer.
+\newblock Efficient processing of deep neural networks: A tutorial and survey.
+\newblock {\em arXiv preprint arXiv:1703.09039}, 2017.
+
+\bibitem{shift}
+Hokchhay Tann, Soheil Hashemi, R~Iris Bahar, and Sherief Reda.
+\newblock Hardware-software codesign of accurate, multiplier-free deep neural
+  networks.
+\newblock In {\em Design Automation Conference (DAC), 2017 54th ACM/EDAC/IEEE},
+  pages 1--6. IEEE, 2017.
+
+\bibitem{finn}
+Yaman Umuroglu, Nicholas~J Fraser, Giulio Gambardella, Michaela Blott, Philip
+  Leong, Magnus Jahre, and Kees Vissers.
+\newblock Finn: A framework for fast, scalable binarized neural network
+  inference.
+\newblock In {\em Proceedings of the 2017 ACM/SIGDA International Symposium on
+  Field-Programmable Gate Arrays}, pages 65--74. ACM, 2017.
+
+\end{thebibliography}

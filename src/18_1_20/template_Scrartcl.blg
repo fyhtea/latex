@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: template_Scrartcl.aux
+The style file: plain.bst
+Database file #1: refer.bib
+Warning--I didn't find a database entry for "shidiannao"
+Warning--I didn't find a database entry for "diannap"
+Warning--can't use both volume and number fields in diannao
+Warning--can't use both volume and number fields in du2015shidiannao
+You've used 13 entries,
+            2118 wiz_defined-function locations,
+            571 strings with 7424 characters,
+and the built_in function-call counts, 7021 in all, are:
+= -- 686
+> -- 424
+< -- 14
++ -- 168
+- -- 154
+* -- 518
+:= -- 1093
+add.period$ -- 49
+call.type$ -- 13
+change.case$ -- 115
+chr.to.int$ -- 0
+cite$ -- 15
+duplicate$ -- 266
+empty$ -- 478
+format.name$ -- 154
+if$ -- 1525
+int.to.chr$ -- 0
+int.to.str$ -- 13
+missing$ -- 13
+newline$ -- 68
+num.names$ -- 26
+pop$ -- 148
+preamble$ -- 1
+purify$ -- 102
+quote$ -- 0
+skip$ -- 198
+stack$ -- 0
+substring$ -- 364
+swap$ -- 117
+text.length$ -- 14
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 52
+warning$ -- 2
+while$ -- 60
+width$ -- 15
+write$ -- 156
+(There were 4 warnings)
